@@ -49,7 +49,6 @@ class Processing {
                              	ParserGPX $parserGPX
                             	)
 	{
-
     	$this->parserTCX	= $parserTCX;
     	$this->parserFIT	= $parserFIT;
     	$this->parserGPX	= $parserGPX;
